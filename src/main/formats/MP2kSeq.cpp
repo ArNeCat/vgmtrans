@@ -10,6 +10,8 @@
 #include "pch.h"
 #include "MP2kSeq.h"
 #include "MP2kFormat.h"
+#include "NDSSeq.h"
+#include "NDSformat.h"
 
 DECLARE_FORMAT(MP2k);
 
