@@ -4,6 +4,7 @@
 #include "VGMSampColl.h"
 #include "VGMSamp.h"
 #include "VGMItem.h"
+#include "VGMSeqNoTrks.h"
 #include "ScaleConversion.h"
 
 typedef struct _BRRBlk                //Sample Block
